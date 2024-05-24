@@ -1,0 +1,14 @@
+Using MythX to analyze a smart contract:
+
+Install MythX CLI
+
+bash
+Copy code
+npm install -g mythx-cli
+Analyze a Contract
+
+bash
+Copy code
+mythx analyze MyContract.sol
+Review the Report
+MythX provides a detailed report highlighting potential issues and vulnerabilities.
